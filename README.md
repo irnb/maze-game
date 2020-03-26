@@ -24,4 +24,6 @@ I've written it in Java.
 
 this is my school project . After project submition , i'll share that code .
 
+but i share .class files you can run it using JVM.
+
 (newbateni => hamid)
