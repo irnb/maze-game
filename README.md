@@ -22,6 +22,6 @@ I've written it in Java.
 
 
 
-this is my school project . After project submition share that code .
+this is my school project . After project submition , i'll share that code .
 
 (newbateni => hamid)
